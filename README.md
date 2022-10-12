@@ -1,2 +1,2 @@
-# Universidad-Tecnica-Medioambiental.
+# Universidad-Tecnica-Medioambiental
 PAGINA WEB DE LA OFERTA ACADEMICA DE LA UNIVERSIDAD TECNICA MEDIOAMBIENTAL
