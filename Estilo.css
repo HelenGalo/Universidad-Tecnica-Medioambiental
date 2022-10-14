@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+    background-color: #FCFCFC;
+    background-image: url(Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+
+}
+#principal{ 
+      list-style-type: none;
+      overflow: hidden;
+      color: #000;
+  
+  }
+  #principal li {
+    list-style: none;
+    float:left;
+     
+      
+      }
+  
+      .active {
+          background-color: #bdb250;
+          }
+  
+      #principal li a{
+   
+      display: block;
+      color: #000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      
+  }
+  a:hover {
+      background-color: rgb(53, 187, 98);
+      text-decoration: none;
+    }
+
+
+.img-fija {
+    width:99%;
+    height: 100%;
+    box-shadow: #383a3b 1px 1px 5px;
+     margin-left: 0.5%;
+  
+  }
+  #sedes{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #0A9B17;
+    color:  rgb(239, 241, 241);
+ 
+  }
+ #interes {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+  }
+  #sede-1 h3{
+    color: #FFFFFF;
+    text-align: center;
+  }
+  #sede-1 {
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 80%;
+   
+
+  }
+  #sede-1 article{
+    width: 50%;
+    height: max-content;
+    border:  1px solid rgb(239, 241, 241);
+  }
+  #sede-1.contenido {
+    text-align: center;
+    width: 90%;
+  }
+
+  footer{
+    display: flex;
+    justify-content: center;
+    background-color: #FCFCFC;
+    background-image: url(Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    padding: 1%;
+    margin-top: 3%;
+  }
+  .primero {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+
+  details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 15%;
+    padding: 10px;
+
+  }
+  details summary{
+    list-style: none;
+    padding: 2% 2%;
+    border: 1px;
+    cursor: pointer;
+
+   
+  }
+  #oferta {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+  #oferta-1{
+    background-color: #88d860;
+ 
+
+  }
+  #oferta-2{
+    background-color: #18434b;
+
+
+  }
+  #oferta-3{
+    background-color: #d89660;
+  
+
+  }
+  
+  #oferta-4{
+    background-color: #6860d8;
+
+
+  }
+  #oferta-5{
+    background-color: #6bc6d6;
+
+  }
+  #oferta-6{
+    background-color: #d86066;
+
+  }
+  
